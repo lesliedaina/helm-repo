@@ -1,1 +1,1 @@
- thisproject is for helm
+ this project is for helm
